@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @markhutchison1959
+- 👋 Hi, I’m mark hutchison
 - 👀 I’m interested in powershell
 - 🌱 I’m currently learning powershell for a hoby
 - 💞️ I’m looking for an opinion on my scripts for a newbee
